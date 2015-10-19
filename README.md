@@ -1,5 +1,5 @@
 # ApiMVVM
-An Android example of Model-View-ViewModel (MVVM) framework that utilizes the github.com api service.
+An Android example of the Model-View-ViewModel (MVVM) framework that utilizes the github.com api service.
 
 I ran into gradle compile issues with the ItemRepoViewModel. I've included code that has been commented out in ItemRepoViewModel in order to show which method was creating the issue:
 
